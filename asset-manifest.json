@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.073c9b0a.css",
-    "main.js": "/github-page/static/js/main.b172f603.js",
-    "static/js/787.9b443e25.chunk.js": "/github-page/static/js/787.9b443e25.chunk.js",
-    "static/media/logo.svg": "/github-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/github-page/static/css/main.113d7a56.css",
+    "main.js": "/github-page/static/js/main.33b4a8eb.js",
+    "static/media/login-background.png": "/github-page/static/media/login-background.30eac45206b9fef1651d.png",
+    "static/media/mealIcon.svg": "/github-page/static/media/mealIcon.40029e7f1422ba5a1bf1c10fa4f59030.svg",
+    "static/media/shareIcon.svg": "/github-page/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/github-page/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/github-page/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/github-page/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/github-page/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/drinkIcon.svg": "/github-page/static/media/drinkIcon.efc0d3c156e5da73e44a826c8d67b142.svg",
     "index.html": "/github-page/index.html",
-    "main.073c9b0a.css.map": "/github-page/static/css/main.073c9b0a.css.map",
-    "main.b172f603.js.map": "/github-page/static/js/main.b172f603.js.map",
-    "787.9b443e25.chunk.js.map": "/github-page/static/js/787.9b443e25.chunk.js.map"
+    "main.113d7a56.css.map": "/github-page/static/css/main.113d7a56.css.map",
+    "main.33b4a8eb.js.map": "/github-page/static/js/main.33b4a8eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b172f603.js"
+    "static/css/main.113d7a56.css",
+    "static/js/main.33b4a8eb.js"
   ]
 }
