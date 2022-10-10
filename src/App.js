@@ -14,16 +14,16 @@ import './App.css';
 function App() {
   return (
     <Switch>
-      <Route exact path="/" component={ Login } />
-      <Route exact path="/meals" component={ Meals } />
-      <Route exact path="/drinks" component={ Drinks } />
-      <Route exact path="/profile" component={ Profile } />
-      <Route exact path="/meals/:id" component={ RecipeDetails } />
-      <Route exact path="/drinks/:id" component={ RecipeDetails } />
-      <Route exact path="/meals/:id/in-progress" component={ RecipeInProgress } />
-      <Route exact path="/drinks/:id/in-progress" component={ RecipeInProgress } />
-      <Route exact path="/done-recipes" component={ DoneRecipes } />
-      <Route exact path="/favorite-recipes" component={ FavoriteRecipes } />
+      <Route exact path="/github-page/" component={ Login } />
+      <Route exact path="/github-page/meals" component={ Meals } />
+      <Route exact path="/github-page/drinks" component={ Drinks } />
+      <Route exact path="/github-page/profile" component={ Profile } />
+      <Route exact path="/github-page/meals/:id" component={ RecipeDetails } />
+      <Route exact path="/github-page/drinks/:id" component={ RecipeDetails } />
+      <Route exact path="/github-page/meals/:id/in-progress" component={ RecipeInProgress } />
+      <Route exact path="/github-page/drinks/:id/in-progress" component={ RecipeInProgress } />
+      <Route exact path="/github-page/done-recipes" component={ DoneRecipes } />
+      <Route exact path="/github-page/favorite-recipes" component={ FavoriteRecipes } />
     </Switch>
   );
 }
