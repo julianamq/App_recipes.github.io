@@ -52,6 +52,7 @@ export default function RecipeDetails({
       });
     });
     fetchRecipes(RECOMMENDATION_ENDPOINT, setRecommendations, FIRST_SIX);
+    // eslint-disable-next-line 
   }, [RECIPE_ENDPOINT, id, RECOMMENDATION_ENDPOINT]);
 
   const isRecipeDone = (recipeId) => {

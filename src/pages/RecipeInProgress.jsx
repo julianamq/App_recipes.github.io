@@ -50,6 +50,7 @@ export default function RecipeInProgress() {
         ingredients: ingredientsArray,
       });
     });
+    // eslint-disable-next-line 
   }, [RECIPE_ENDPOINT, id]);
 
   const handleChange = ({ target }) => {
